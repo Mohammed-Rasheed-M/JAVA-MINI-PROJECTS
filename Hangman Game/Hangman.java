@@ -11,7 +11,7 @@ public class Hangman{
         Scanner keyborad = new Scanner(System.in);
         System.out.println("------------------------------------------------------------------");
         System.out.println("This is an Hangman Single/Multi player Game !!");
-        System.out.println("This program is created by Rasheed M");
+        System.out.println("This program is created by Mohammed Rasheed M");
         System.out.println("------------------------------------------------------------------");
         System.out.print("Single player(CPU) or Multiplayer(2 player) (1 or 2): ");
         String players = keyborad.nextLine();
